@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/cswcl/eslint-config-base/issues"
   },
-  "homepage": "https://github.com/cswcl/eslint-config-base#readme"
+  "homepage": "https://github.com/cswcl/eslint-config-base#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  }
 }
