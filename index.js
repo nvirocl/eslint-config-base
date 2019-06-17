@@ -19,6 +19,7 @@ module.exports = {
       },
     ],
     'keyword-spacing': 2,
+    'key-spacing': [ 'error', { 'beforeColon': false } ],
     'indent': [
       2,
       2,
