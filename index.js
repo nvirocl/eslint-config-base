@@ -59,6 +59,11 @@ module.exports = {
         'skipTemplates': true,
       },
     ],
+    'no-multi-spaces': ['error',
+      {
+        'ignoreEOLComments': false
+      }
+    ],
     'strict': [ 'error', 'global' ],
     'curly': [ 'error', 'all' ],
     'no-var': 'error',
