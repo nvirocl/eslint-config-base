@@ -49,6 +49,7 @@ module.exports = {
       },
     ],
     'array-bracket-spacing': [ 'error', 'always', { 'singleValue': true } ],
+    'arrow-spacing': 'error',
     'no-trailing-spaces': 'error',
     'no-irregular-whitespace': [
       'error',
