@@ -42,10 +42,11 @@ module.exports = {
     'comma-spacing': [ 'error', { 'before': false, 'after': true } ],
     'object-curly-spacing': [
       'error',
-      'always'
+      'always',
+      { "before": true, "after": true }
     ],
     'array-bracket-spacing': [ 'error', 'always', { 'singleValue': true } ],
-    'arrow-spacing': 'error',
+    'arrow-spacing': ['error', { "before": true, "after": true }],
     'no-trailing-spaces': 'error',
     'no-irregular-whitespace': [
       'error',
