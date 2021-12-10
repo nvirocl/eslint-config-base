@@ -69,5 +69,11 @@ module.exports = {
     'one-var': [ 'error', 'never' ],
     'no-buffer-constructor': 2,
     'brace-style': [ 2, '1tbs', { allowSingleLine: true } ],
+    eqeqeq: [ 'error', 'smart' ],
+    'prefer-const': [ 'error', { destructuring: 'all' } ],
+    'block-spacing': [ 'error', 'always' ],
+    'space-in-parens': [ 'error', 'never' ],
+    'arrow-body-style': [ 'error', 'as-needed' ],
+    'arrow-parens': [ 'error', 'as-needed' ],
   },
 };
