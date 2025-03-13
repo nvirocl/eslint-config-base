@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nviro/eslint-config-base.git"
+    "url": "git+https://github.com/nvirocl/eslint-config-base.git"
   },
   "keywords": [
     "eslint",
@@ -18,9 +18,9 @@
   "author": "Nviro",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nviro/eslint-config-base/issues"
+    "url": "https://github.com/nvirocl/eslint-config-base/issues"
   },
-  "homepage": "https://github.com/nviro/eslint-config-base#readme",
+  "homepage": "https://github.com/nvirocl/eslint-config-base#readme",
   "devDependencies": {
     "eslint": "^8.57.1"
   }
