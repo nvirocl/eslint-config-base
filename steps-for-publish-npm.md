@@ -9,7 +9,7 @@
 
 3. Incrementa la versión del package según corresponda:
   ```sh
-  npm version <tipo-de-versión> --no-git-tag-version
+  npm version <tipo-de-versión>
   ```
   Reemplaza `<tipo-de-versión>` con `patch`, `minor` o `major`.
 
