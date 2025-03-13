@@ -1,6 +1,6 @@
 {
-  "name": "@csw/eslint-config-base",
   "version": "1.4.0",
+  "name": "@nviro/eslint-config-base",
   "description": "Eslint base rules",
   "main": "index.js",
   "scripts": {
@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cswcl/eslint-config-base.git"
+    "url": "git+https://github.com/nviro/eslint-config-base.git"
   },
   "keywords": [
     "eslint",
-    "csw",
+    "nviro",
     "rules"
   ],
-  "author": "CSW Consultores Ambientales",
+  "author": "Nviro",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cswcl/eslint-config-base/issues"
+    "url": "https://github.com/nviro/eslint-config-base/issues"
   },
-  "homepage": "https://github.com/cswcl/eslint-config-base#readme",
+  "homepage": "https://github.com/nviro/eslint-config-base#readme",
   "devDependencies": {
     "eslint": "^8.4.1"
   }
