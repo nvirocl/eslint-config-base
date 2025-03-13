@@ -9,7 +9,7 @@
 
 3. Incrementa la versión del package según corresponda:
   ```sh
-  npm version <tipo-de-versión>
+  npm version <tipo-de-versión> --no-git-tag-version
   ```
   Reemplaza `<tipo-de-versión>` con `patch`, `minor` o `major`.
 
@@ -18,7 +18,4 @@
   npm publish --access public
   ```
 
-5. Verifica que el package se haya publicado correctamente buscando `@nviro/eslint-config-base` en [npm](https://www.npmjs.com/).
-  ```sh
-  npm login
-  ```
+5. Verifica que el package se haya publicado correctamente viendo la versión en la [web](https://www.npmjs.com/package/@nviro/eslint-config-base)
