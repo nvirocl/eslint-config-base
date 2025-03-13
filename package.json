@@ -1,6 +1,6 @@
 {
-  "version": "1.4.0",
   "name": "@nviro/eslint-config-base",
+  "version": "2.0.0",
   "description": "Eslint base rules",
   "main": "index.js",
   "scripts": {
