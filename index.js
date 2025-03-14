@@ -1,13 +1,13 @@
-'use strict';
-
 module.exports = {
   env: {
     browser: false,
     node: true,
-    es6: true,
-    mocha: true,
+    es2022: true,
   },
-  parserOptions: { ecmaVersion: 2018 },
+  parserOptions: {
+    ecmaVersion: 2022,
+    sourceType: 'module',
+  },
   rules: {
     'max-len': [
       'error',
